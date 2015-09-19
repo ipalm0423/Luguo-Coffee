@@ -159,6 +159,8 @@
 		AC7472511BAD1E82008772C4 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "陳冠宇";
 				TargetAttributes = {
@@ -415,6 +417,7 @@
 				AC74727D1BAD1E82008772C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AC74727E1BAD1E82008772C4 /* Build configuration list for PBXNativeTarget "Luguo CoffeeTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +426,7 @@
 				AC7472801BAD1E82008772C4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
